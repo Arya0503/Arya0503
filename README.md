@@ -1,10 +1,10 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Arya%20Vartak&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Hackathon%20Builder&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Arya Vartak banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0b132b,40:1c2541,70:3a506b,100:5bc0be&height=280&section=header&text=Arya%20Vartak&fontSize=64&fontColor=ffffff&fontAlignY=40&stroke=5bc0be&strokeWidth=1&desc=%E2%9C%A6%20Full-Stack%20Developer%20%C2%B7%20Hackathon%20Builder%20%C2%B7%20Systems%20Thinker%20%E2%9C%A6&descSize=18&descAlignY=62&animation=twinkling" width="100%" alt="Arya Vartak banner" />
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=4FD1C5&center=true&vCenter=true&width=640&lines=B.Tech+%40+SRMIST+%7C+Computing+Technologies;Technical+Member+%40+E-Cell%2C+SRMIST;Building+full-stack+%26+backend+systems;Hackathon+finalist+%F0%9F%8F%86" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=5BC0BE&center=true&vCenter=true&width=640&lines=B.Tech+%40+SRMIST+%7C+Computing+Technologies;Technical+Member+%40+E-Cell%2C+SRMIST;Building+full-stack+%26+backend+systems;Hackathon+finalist+%F0%9F%8F%86" alt="Typing intro" />
 </a>
 
 <br/>
@@ -135,4 +135,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:5bc0be,40:3a506b,70:1c2541,100:0b132b&height=140&section=footer" width="100%" alt="footer" />
